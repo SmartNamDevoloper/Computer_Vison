@@ -11,6 +11,6 @@ Class names for coco dataset can be downloaded form https://github.com/pjreddie/
 Download videos from pexels.com if required for testing
 
 
-Mediapipe
+Mediapipe folder
 
 The min.py is a basic implementation of the mediapipe and pose_detect.py is modular code of the same with additional function to detect left and right hand.

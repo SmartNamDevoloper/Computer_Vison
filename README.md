@@ -13,4 +13,4 @@ Download videos from pexels.com if required for testing
 
 Mediapipe folder
 
-The min.py is a basic implementation of the mediapipe and pose_detect.py is modular code of the same with additional function to detect left and right hand.
+The min.py is a basic implementation of the mediapipe and pose_detect.py is modular code of the same with additional function to detect left and right hand.This link was followed to implement https://www.youtube.com/watch?v=brwgBf6VB0I&ab_channel=Murtaza%27sWorkshop-RoboticsandAI 

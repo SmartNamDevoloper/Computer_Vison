@@ -1,6 +1,8 @@
 # Computer_Vison
 
-YoloV3_Object_Detection folder
+This repository has different folders each addressing a different approach to action detection.
+
+#### YoloV3_Object_Detection folder
 
 image.py is to detect objects in a static image. It uses opencv and  yolo v3 weights.
 
@@ -13,8 +15,15 @@ Class names for coco dataset can be downloaded form https://github.com/pjreddie/
 Download videos from pexels.com if required for testing
 
 
-Mediapipe folder
+#### Mediapipe folder
 
 The min.py is a basic implementation of the mediapipe and pose_detect.py is modular code of the same with additional function to detect left and right hand.
 
 This link was followed to implement https://www.youtube.com/watch?v=brwgBf6VB0I&ab_channel=Murtaza%27sWorkshop-RoboticsandAI 
+
+
+#### movenet folder
+
+The multi_person_pose_estimation.py script was implemented with help of this link Tensorflow Multi-Person Pose Estimation with Python // Machine Learning Tutorial - YouTube ![image](https://user-images.githubusercontent.com/57164676/146131760-1f4c04ff-264f-496b-bed2-3c95143af95f.png)
+
+It detects poses for mutiple persons in the video.

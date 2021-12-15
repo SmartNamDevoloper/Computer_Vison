@@ -24,6 +24,6 @@ This link was followed to implement https://www.youtube.com/watch?v=brwgBf6VB0I&
 
 #### movenet folder
 
-The multi_person_pose_estimation.py script was implemented with help of this link Tensorflow Multi-Person Pose Estimation with Python // Machine Learning Tutorial - YouTube ![image](https://user-images.githubusercontent.com/57164676/146131760-1f4c04ff-264f-496b-bed2-3c95143af95f.png)
+The multi_person_pose_estimation.py script was implemented with help of this link https://www.youtube.com/watch?v=KC7nJtBHBqg&t=1114s 
 
 It detects poses for mutiple persons in the video.
